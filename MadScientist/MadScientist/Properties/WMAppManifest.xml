@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.0">
+  <App xmlns="" ProductID="{f8f07b1b-751d-4c1b-bc57-fcbed4d76cc5}" Title="SortingGame" RuntimeType="XNA" Version="1.0.0.0" Genre="Apps.Normal" Author="" Description="" Publisher="">
+    <IconPath IsRelative="true" IsResource="false"></IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_MEDIALIB" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default"/>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="SortingGameToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false"></BackgroundImageURI>
+          <Count>0</Count>
+          <Title>Space Catch</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>
+

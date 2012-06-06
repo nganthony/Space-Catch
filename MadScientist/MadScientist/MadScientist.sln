@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadScientist", "MadScientist.csproj", "{D470A66D-F5BB-44C3-A8D4-625A58911B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D470A66D-F5BB-44C3-A8D4-625A58911B9C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
